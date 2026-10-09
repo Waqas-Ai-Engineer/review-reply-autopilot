@@ -1,0 +1,21 @@
+[LOW     ] positive 5* Maria Lopez: Fast and professional roofing crew. Fair price and they clea
+           -> Thank you so much, Maria, for the kind words about Apex Roofing. We're glad we respected your time. We look forward to serving you again. - The Apex Roofing Team
+
+[ESCALATE] negative 1* James Carter: Technician was rude and two hours late. Overpriced and I'm c
+           -> [HOLD - do not post. Owner must review: legal language detected]
+(Suggested draft) Hi James, we're sorry your experience fell short of what we aim for. Running late or leaving you waiting isn't acceptable to us. Please reach out to us directly at office@apex.example so we can make this right. - The Apex Roofing Team
+
+[MEDIUM  ] mixed    3* Priya Shah: Haircut was great but I had to wait 40 minutes past my appoi
+           -> Thank you for the honest feedback, Priya. We know timing matters and are tightening our scheduling. If you'd like to talk it through, contact us at office@apex.example. - The Apex Roofing Team
+
+[HIGH    ] negative 2* Tom Brooks: AC still leaking after the repair. Nobody returned my calls.
+           -> Hi Tom, we're sorry your experience fell short of what we aim for. We'd like the chance to put the work right. Please reach out to us directly at office@apex.example so we can make this right. - The Apex Roofing Team
+
+[LOW     ] positive 4* Dana Kim: Friendly front desk and quick check-in at the clinic. Thanks
+           -> Thank you so much, Dana, for the kind words about Apex Roofing. We're glad we respected your time. We look forward to serving you again. - The Apex Roofing Team
+
+[ESCALATE] negative 1* Leo Park: Felt unsafe, there was a gas leak smell after install. Will 
+           -> [HOLD - do not post. Owner must review: regulator, safety language detected]
+(Suggested draft) Hi Leo, we're sorry your experience fell short of what we aim for. We'd like the chance to put the work right. Please reach out to us directly at office@apex.example so we can make this right. - The Apex Roofing Team
+
+6 reviews, 2 need owner review before posting.
